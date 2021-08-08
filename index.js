@@ -74,4 +74,4 @@ client.on('interactionCreate', async interaction => {
 	// ...
 });
 
-client.login('ODcyNTgwNDE2MDk4NDAyMzM2.YQr71g.OzZA5wGcIut9mlkiI7-LnbbZiVM');
+client.login('');
